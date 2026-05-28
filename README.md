@@ -4,7 +4,6 @@
 
 I care about writing clean, purposeful code — not just getting things to work, but understanding **why** they work. Currently diving deeper into cloud architecture (AWS) and building projects that solve real problems.
 
----
 
 ## 🛠 what I work with
 
@@ -13,23 +12,23 @@ I care about writing clean, purposeful code — not just getting things to work,
 **Frontend**    HTML · CSS · JavaScript
 **Tools**       Git · GitHub · VS Code · Linux terminal
 
----
+
 
 ## 📌 projects worth looking at
 
 **🏥 Imperial Virtual Healthcare**
 A full web platform for virtual patient consultations. Built with HTML/CSS/JS. Focused on clean UX for something that actually matters.
-[→ View repo](#)
+[→ View repo](https://github.com/Athi-2104/Imperial-Virtual-Healthcare)
 
 **🦷 Dental Management System**
 Desktop application (Python + MySQL) to manage patient records, doctor consultations, and payroll for a dental clinic. Real-world data, real constraints.
-[→ View repo](#)
+[→ View repo](https://github.com/Athi-2104/Dental-Management)
 
 **🤝 Volunify — Connecting Volunteers with Purpose**
 Platform for matching volunteers with NGOs and community initiatives. HTML-based, built with accessibility in mind.
-[→ View repo](#)
+[→ View repo](https://github.com/Athi-2104/Volunify-Connecting-Volunteers-with-Purpose.)
 
----
+
 
 ## 📖 currently learning
 
