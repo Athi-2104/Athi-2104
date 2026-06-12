@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="50%">
+  <img src="./banner.png" width="80%">
 </p>
 
 # 👋 Hey, I'm Athira
