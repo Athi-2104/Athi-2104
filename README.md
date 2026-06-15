@@ -110,7 +110,7 @@ Connecting volunteers with NGOs and meaningful community initiatives.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Athi-2104&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Athi-2104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
