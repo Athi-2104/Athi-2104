@@ -50,17 +50,14 @@ Currently exploring AWS cloud architecture, backend development, and system desi
 ![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge\&logo=amazonaws)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge\&logo=awslambda)
 
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-
-### Frontend
+###Frontend and Backend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
 ### Tools
 
