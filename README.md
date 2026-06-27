@@ -50,7 +50,7 @@ Currently exploring AWS cloud architecture, backend development, and system desi
 ![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge\&logo=amazonaws)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge\&logo=awslambda)
 
-###Frontend and Backend
+### Frontend and Backend
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
