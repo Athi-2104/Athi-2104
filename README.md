@@ -120,7 +120,8 @@ Connecting volunteers with NGOs and meaningful community initiatives.
 
 ## 📬 Connect With Me
 
-📧 **[athirapremarajan2104@gmail.com](mailto:athirapremarajan2104@gmail.com)**
+📧 **Email**
+[athirapremarajan2104@gmail.com](mailto:athirapremarajan2104@gmail.com)
 
 💼 **LinkedIn:**
 https://linkedin.com/in/athira-827689298
